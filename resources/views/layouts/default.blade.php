@@ -3,6 +3,7 @@
 <head>
     <title>@yield('title', 'Weibo App') - 一个非同凡响的网站</title>
     <link rel="stylesheet" href="{{ mix('css/app.css') }}">
+    <script src="/js/app.js"></script>
 </head>
 <body>
 
